@@ -1,6 +1,3 @@
-# HyperledgerWorkshop
-Hyperledger local and cloud set up preqreqs.
-
 # Hyperledger Fabric Blockchain Prerequisites  
 **Local MacOS set up** 
 
