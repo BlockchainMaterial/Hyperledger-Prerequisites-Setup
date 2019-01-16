@@ -4,7 +4,7 @@
 
 1. Download cURL latest version. 
 - You can do this by installing [Homebrew](https://brew.sh) by running in your terminal : `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
-- Run in your terminal `brew install curl`
+- Run in CLI `brew install curl`
 - Check if you have cURL installed by typing the following in your terminal: `curl -V`. The version should pull up. 
 2. Install by clicking on [Docker for MacOS](https://docs.docker.com/docker-for-mac/install/) or update Docker to latest version if you already have it. It’s easy to do this, just open Docker and it will prompt you to update to latest version.
 - Run `docker --version` . Docker version 17.06.2-ce or greater is required.
