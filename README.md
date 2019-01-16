@@ -7,8 +7,8 @@
 - Type in `brew install curl`
 - Check if you have cURL installed by typing the following in your terminal: `curl -V`. The version should pull up. 
 2. Install by clicking on \[Docker for MacOS\](https://docs.docker.com/docker-for-mac/install/) or update Docker to latest version if you already have it. It’s easy to do this, just open Docker and it will prompt you to update to latest version.
-- Run `docker` `**--**``version` . Docker version 17.06.2-ce or greater is required.
-- Run `docker``**-**``compose` `**--**``version` . Docker Compose version 1.14.0 or greater required. 
+- Run `docker --version` . Docker version 17.06.2-ce or greater is required.
+- Run `docker-compose --version`. Docker Compose version 1.14.0 or greater required. 
 3. Download Golang for MacOS \[here\](https://golang.org/doc/install?download=go1.11.4.darwin-amd64.pkg). 
 -  Run `go` in your terminal to verify set up. The message “Go is a tool for managing Go source code” should show up. 
 - Next run `export GOPATH=$HOME/go`. This sets the environment variable `GOPATH` to point at the Go workspace containing the downloaded Fabric code base. 
@@ -18,7 +18,6 @@
 - Check if you have it installed by running `python --version`.  Python 2.7 required.
 
 **References**
-
 
 - Official Hyperledger Doc Prerequisites: https://hyperledger-fabric.readthedocs.io/en/release-1.4/prereqs.html 
 - Docker: https://docs.docker.com/docker-for-mac/install/
