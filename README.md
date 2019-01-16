@@ -12,7 +12,7 @@
 3. Download Golang for MacOS [here](https://golang.org/doc/install?download=go1.11.4.darwin-amd64.pkg).
 -  Run `go` in your terminal to verify set up. The message “Go is a tool for managing Go source code” should show up. 
 - Next run `export GOPATH=$HOME/go`. This sets the environment variable `GOPATH` to point at the Go workspace containing the downloaded Fabric code base. 
-- You should (again, in the appropriate startup file) extend your command search path to include the Go `bin` directory. Finally, run `export PATH=$PATH:$GOPATH/bin`.
+- You should (again, in the appropriate startup file) extend your command search path to include the Go `bin` directory. Run `export PATH=$PATH:$GOPATH/bin`.
 4. Download Node by typing in: `brew install node`. 
 - Note: If you already have node, run `brew upgrade node`
 5. Download \[Python2\](https://hackercodex.com/guide/python-development-environment-on-mac-osx/) `brew install python@2` . 
