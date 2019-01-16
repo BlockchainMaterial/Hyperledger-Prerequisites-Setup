@@ -15,7 +15,7 @@
 - You should (again, in the appropriate startup file) extend your command search path to include the Go `bin` directory. Finally, run `export PATH=$PATH:$GOPATH/bin`.
 1. Download Node by typing in: `brew install node`. If you already have node, run `brew upgrade node`
 2. Download \[Python2\](https://hackercodex.com/guide/python-development-environment-on-mac-osx/) `brew install python@2` . 
-- Check if you have it installed by running `python` `--``version`.  Python 2.7 required for running 
+- Check if you have it installed by running `python --version`.  Python 2.7 required.
 
 **References**
 
