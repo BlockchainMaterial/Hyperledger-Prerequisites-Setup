@@ -25,8 +25,7 @@ See document here by scrolling down to Windows Extras: https://hyperledger-fabri
 **IBM Cloud Blockchain Platform set up**
 
 - Register for IBM Cloud (free): https://console.bluemix.net/
-- Sign in and nagivate to IBM Blockchain Platform (first 30 days free): https://console.bluemix.net/catalog/services/blockchain
-- More Info About Blockchain Platform: https://ibm.biz/Bd2Z5w
+- Additional Info About Blockchain Platform: https://ibm.biz/Bd2Z5w
 
 **References**
 
