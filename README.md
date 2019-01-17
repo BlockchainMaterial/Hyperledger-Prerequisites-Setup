@@ -3,7 +3,7 @@
 **IBM Cloud Blockchain Platform set up**
 
 - Register for IBM Cloud (free): https://ibm.biz/Bd2YQt 
-- Additional Info About Blockchain Platform: https://ibm.biz/Bd2Z5w
+- Additional info on IBM Blockchain Platform: https://ibm.biz/Bd2Z5w
 
 **Local MacOS set up** 
 
