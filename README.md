@@ -18,15 +18,6 @@
 5. Download \[Python2\](https://hackercodex.com/guide/python-development-environment-on-mac-osx/) `brew install python@2` . 
 - Check if you have it installed by running `python --version`.  Python 2.7 is required.
 
-**References**
-
-- Official Hyperledger Doc Prerequisites: https://hyperledger-fabric.readthedocs.io/en/release-1.4/prereqs.html 
-- Docker: https://docs.docker.com/docker-for-mac/install/
-- Golang: https://golang.org/dl/
-- Homebrew: https://brew.sh/
-- NPM: https://medium.com/@kkostov/how-to-install-node-and-npm-on-macos-using-homebrew-708e2c3877bd
-- Python2: https://hackercodex.com/guide/python-development-environment-on-mac-osx/
-
 **Microsoft OS set up** 
 
 See document here by scrolling down to Windows Extras: https://hyperledger-fabric.readthedocs.io/en/release-1.4/prereqs.html#id1
@@ -36,6 +27,15 @@ See document here by scrolling down to Windows Extras: https://hyperledger-fabri
 - Register for IBM Cloud (free): https://console.bluemix.net/
 - Sign in and nagivate to IBM Blockchain Platform (first 30 days free): https://console.bluemix.net/catalog/services/blockchain
 - More Info: https://ibm.biz/Bd2Z5w
+
+**References**
+
+- Official Hyperledger Doc Prerequisites: https://hyperledger-fabric.readthedocs.io/en/release-1.4/prereqs.html 
+- Docker: https://docs.docker.com/docker-for-mac/install/
+- Golang: https://golang.org/dl/
+- Homebrew: https://brew.sh/
+- NPM: https://medium.com/@kkostov/how-to-install-node-and-npm-on-macos-using-homebrew-708e2c3877bd
+- Python2: https://hackercodex.com/guide/python-development-environment-on-mac-osx/
 
 
 
