@@ -22,11 +22,11 @@
 
 See document here by scrolling down to Windows Extras: https://hyperledger-fabric.readthedocs.io/en/release-1.4/prereqs.html#id1
 
-**IBM Cloud Blockchain Starter Kit set up**
+**IBM Cloud Blockchain Platform set up**
 
 - Register for IBM Cloud (free): https://console.bluemix.net/
 - Sign in and nagivate to IBM Blockchain Platform (first 30 days free): https://console.bluemix.net/catalog/services/blockchain
-- More Info: https://ibm.biz/Bd2Z5w
+- More Info About Blockchain Platform: https://ibm.biz/Bd2Z5w
 
 **References**
 
