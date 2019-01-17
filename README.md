@@ -1,6 +1,11 @@
 # Hyperledger Fabric Blockchain Prerequisites  
-**Local MacOS set up** 
 
+**IBM Cloud Blockchain Platform set up**
+
+- Register for IBM Cloud (free): https://ibm.biz/Bd2YQt 
+- Additional Info About Blockchain Platform: https://ibm.biz/Bd2Z5w
+
+**Local MacOS set up** 
 
 1. Download cURL latest version. 
 - You can do this by installing [Homebrew](https://brew.sh) by running in your terminal : `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
@@ -18,14 +23,9 @@
 5. Download \[Python2\](https://hackercodex.com/guide/python-development-environment-on-mac-osx/) `brew install python@2` . 
 - Check if you have it installed by running `python --version`.  Python 2.7 is required.
 
-**Microsoft OS set up** 
+**Local Microsoft OS set up** 
 
 See document here by scrolling down to Windows Extras: https://hyperledger-fabric.readthedocs.io/en/release-1.4/prereqs.html#id1
-
-**IBM Cloud Blockchain Platform set up**
-
-- Register for IBM Cloud (free): https://console.bluemix.net/
-- Additional Info About Blockchain Platform: https://ibm.biz/Bd2Z5w
 
 **References**
 
