@@ -20,15 +20,15 @@
 - You should (again, in the appropriate startup file) extend your command search path to include the Go `bin` directory. Run `export PATH=$PATH:$GOPATH/bin`.
 4. Download Node by typing in: `brew install node`. 
 - Note: If you already have node, run `brew upgrade node`
-5. Download \[Python2\](https://hackercodex.com/guide/python-development-environment-on-mac-osx/) `brew install python@2` . 
-- Check if you have it installed by running `python --version`.  Python 2.7 is required.
-6. Download Visual Studio: https://code.visualstudio.com/
+5. Download [Python2](https://hackercodex.com/guide/python-development-environment-on-mac-osx/) `brew install python@2` 
+- Check if you have it installed by running `python --version`. Python 2.7 is required.
+6. Download [Visual Studio](https://code.visualstudio.com/)
 
 **Local Microsoft OS set up** 
 
 1. See document here by scrolling down to Windows Extras: https://hyperledger-fabric.readthedocs.io/en/release-1.4/prereqs.html#id1
 
-2. Download Visual Studio: https://code.visualstudio.com/
+2. Download [Visual Studio](https://code.visualstudio.com/)
 
 **References**
 
