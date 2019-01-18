@@ -38,6 +38,7 @@
 - Homebrew: https://brew.sh/
 - NPM: https://medium.com/@kkostov/how-to-install-node-and-npm-on-macos-using-homebrew-708e2c3877bd
 - Python2: https://hackercodex.com/guide/python-development-environment-on-mac-osx/
+- Visual Studio: https://code.visualstudio.com/docs
 
 
 
