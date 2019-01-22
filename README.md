@@ -25,10 +25,11 @@
 5. Download [Python2](https://hackercodex.com/guide/python-development-environment-on-mac-osx/) `brew install python@2`. 
 - Check if you have it installed by running `python --version`. Python 2.7 is required.
 6. Download [Visual Studio](https://code.visualstudio.com/).
-7. Optional: If your build fails, you may need to install XCode. 
+7. Optional: If your build fails, you may need to update NPM in terminal again `npm install -g npm@latest`
+8. Optional: If your build still fails, try installing XCode with one additional script. 
 - [XCode Installation](https://developer.apple.com/xcode/)
 - After installation run in terminal `sudo xcode-select -switch /Applications/Xcode.app/Contents/Developer/`
-- Update NPM in terminal again `npm install -g npm@latest`
+
 
 References: https://stackoverflow.com/questions/27665426/trying-to-install-bcrypt-into-node-project-node-set-up-issues
 
