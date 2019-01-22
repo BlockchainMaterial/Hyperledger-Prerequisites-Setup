@@ -25,8 +25,8 @@
 6. Download [Visual Studio](https://code.visualstudio.com/).
 7. Optional: If your build fails, you may need to install XCode. 
 - [XCode Installation](https://developer.apple.com/xcode/)
-- Run this script `sudo xcode-select -switch /Applications/Xcode.app/Contents/Developer/`
-- Update NPM `npm install -g npm@latest`
+- After installation run in terminal `sudo xcode-select -switch /Applications/Xcode.app/Contents/Developer/`
+- Update NPM in terminal `npm install -g npm@latest`
 
 References: https://stackoverflow.com/questions/27665426/trying-to-install-bcrypt-into-node-project-node-set-up-issues
 
