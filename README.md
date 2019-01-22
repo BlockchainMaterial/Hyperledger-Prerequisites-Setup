@@ -24,6 +24,15 @@
 - Check if you have it installed by running `python --version`. Python 2.7 is required.
 6. Download [Visual Studio](https://code.visualstudio.com/).
 
+Optional: If your build fails, you may need to install XCode. 
+
+7. 
+- [XCode Installation](https://developer.apple.com/xcode/)
+- Run this script `sudo xcode-select -switch /Applications/Xcode.app/Contents/Developer/`
+- Update NPM `npm install -g npm@latest`
+
+References: https://stackoverflow.com/questions/27665426/trying-to-install-bcrypt-into-node-project-node-set-up-issues
+
 **Local Microsoft OS set up** 
 
 1. See document here by scrolling down to Windows Extras: https://hyperledger-fabric.readthedocs.io/en/release-1.4/prereqs.html#id1
