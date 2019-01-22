@@ -23,10 +23,7 @@
 5. Download [Python2](https://hackercodex.com/guide/python-development-environment-on-mac-osx/) `brew install python@2`. 
 - Check if you have it installed by running `python --version`. Python 2.7 is required.
 6. Download [Visual Studio](https://code.visualstudio.com/).
-
-Optional: If your build fails, you may need to install XCode. 
-
-7. 
+7. Optional: If your build fails, you may need to install XCode. 
 - [XCode Installation](https://developer.apple.com/xcode/)
 - Run this script `sudo xcode-select -switch /Applications/Xcode.app/Contents/Developer/`
 - Update NPM `npm install -g npm@latest`
