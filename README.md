@@ -20,7 +20,7 @@
 - You should (again, in the appropriate startup file) extend your command search path to include the Go `bin` directory. Run `export PATH=$PATH:$GOPATH/bin`.
 4. Download Node by typing in: `brew install node`. 
 - Note: If you already have node, run `brew upgrade node`.
-- Check installation by running `node -v' 
+- Verify version and installation, run `node -v`
 - Run `npm -v`
 5. Download [Python2](https://hackercodex.com/guide/python-development-environment-on-mac-osx/) `brew install python@2`. 
 - Check if you have it installed by running `python --version`. Python 2.7 is required.
@@ -28,7 +28,7 @@
 7. Optional: If your build fails, you may need to install XCode. 
 - [XCode Installation](https://developer.apple.com/xcode/)
 - After installation run in terminal `sudo xcode-select -switch /Applications/Xcode.app/Contents/Developer/`
-- Update NPM in terminal `npm install -g npm@latest`
+- Update NPM in terminal again `npm install -g npm@latest`
 
 References: https://stackoverflow.com/questions/27665426/trying-to-install-bcrypt-into-node-project-node-set-up-issues
 
