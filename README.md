@@ -26,7 +26,7 @@
 - Check if you have it installed by running `python --version`. Python 2.7 is required.
 6. Download [Visual Studio](https://code.visualstudio.com/).
 7. Optional: If your build fails, you may need to update NPM in terminal again `npm install -g npm@latest`
-8. Optional: If your build still fails, try installing XCode. 
+8. Optional: If your build still fails, try installing XCode for MacOS. 
 - [XCode Installation](https://developer.apple.com/xcode/)
 - After installation run in terminal `sudo xcode-select -switch /Applications/Xcode.app/Contents/Developer/`
 
