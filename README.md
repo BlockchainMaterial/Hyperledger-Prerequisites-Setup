@@ -2,7 +2,7 @@
 
 **IBM Cloud Blockchain Platform set up**
 
-- Register for IBM Cloud (free): https://ibm.biz/Bd2YQt 
+- Register for IBM Cloud (free): https://console.bluemix.net/
 - Additional info on IBM Blockchain Platform: https://ibm.biz/Bd2Z5w
 
 **Local MacOS set up** 
